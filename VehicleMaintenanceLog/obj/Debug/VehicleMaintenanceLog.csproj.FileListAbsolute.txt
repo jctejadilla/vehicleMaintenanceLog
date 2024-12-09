@@ -1,0 +1,13 @@
+C:\Users\jctej\source\repos\VehicleMaintenanceLog\bin\Debug\VehicleMaintenanceLog.exe.config
+C:\Users\jctej\source\repos\VehicleMaintenanceLog\bin\Debug\VehicleMaintenanceLog.exe
+C:\Users\jctej\source\repos\VehicleMaintenanceLog\bin\Debug\VehicleMaintenanceLog.pdb
+C:\Users\jctej\source\repos\VehicleMaintenanceLog\obj\Debug\VehicleMaintenanceLog.csproj.AssemblyReference.cache
+C:\Users\jctej\source\repos\VehicleMaintenanceLog\obj\Debug\VehicleMaintenanceLog.Login.resources
+C:\Users\jctej\source\repos\VehicleMaintenanceLog\obj\Debug\VehicleMaintenanceLog.main.resources
+C:\Users\jctej\source\repos\VehicleMaintenanceLog\obj\Debug\VehicleMaintenanceLog.MaintenanceRecords.resources
+C:\Users\jctej\source\repos\VehicleMaintenanceLog\obj\Debug\VehicleMaintenanceLog.Properties.Resources.resources
+C:\Users\jctej\source\repos\VehicleMaintenanceLog\obj\Debug\VehicleMaintenanceLog.VehicleInfo.resources
+C:\Users\jctej\source\repos\VehicleMaintenanceLog\obj\Debug\VehicleMaintenanceLog.csproj.GenerateResource.cache
+C:\Users\jctej\source\repos\VehicleMaintenanceLog\obj\Debug\VehicleMaintenanceLog.csproj.CoreCompileInputs.cache
+C:\Users\jctej\source\repos\VehicleMaintenanceLog\obj\Debug\VehicleMaintenanceLog.exe
+C:\Users\jctej\source\repos\VehicleMaintenanceLog\obj\Debug\VehicleMaintenanceLog.pdb
